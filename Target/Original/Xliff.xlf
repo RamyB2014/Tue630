@@ -1,0 +1,35 @@
+﻿<?xml version="1.0"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file
+    source-language="en"
+    datatype="plaintext"
+    original="file.ext"
+    target-language="es">
+    <body><trans-unit
+        id="1"><source>This value should be marshmallow</source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">This value should be marshmallow</mrk></target></trans-unit><trans-unit
+        id="2"><source>個以上選択してください</source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">個以上選択してください</mrk></target></trans-unit><trans-unit
+        id="3"><source>This value should be of type one two</source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">This value should be of type one two</mrk></target></trans-unit><trans-unit
+        id="4"><source>This is a test to try project updater in Lingo</source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">This is a test to try project updater in Lingo</mrk></target></trans-unit></body>
+  </file>
+</xliff>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="RESX.resx"
+    source-language="en"
+    target-language="es"
+    MadCap:file-filter=""
+    datatype="x-resx">
+    <header>
+      <skl><external-file
+          href="RESX.resx.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">12</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7486.22530"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>أعتقد أنني يجب أن إضافة خط أكثر قليل لأن لدينا لخلق محتويات واسعة</source><seg-source><mrk
+            mtype="seg"
+            mid="1">أعتقد أنني يجب أن إضافة خط أكثر قليل لأن لدينا لخلق محتويات واسعة</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>الآن أن لدي بعض سطر، يجب أن أتوقف عن حق بعض الوقت؟</source><seg-source><mrk
+            mtype="seg"
+            mid="1">الآن أن لدي بعض سطر، يجب أن أتوقف عن حق بعض الوقت؟</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>الآن، أنا من المفترض أن اكتب بيكوس عقوبة طويلة حقا يجب أن يكون طويلا حقا. أستطيع أن جعل عقوبة طويلة حقا ولصقه على ملف الموارد؟ ونأمل أن استوديوهات البصرية لا نشكو منها</source><seg-source><mrk
+            mtype="seg"
+            mid="1">الآن، أنا من المفترض أن اكتب بيكوس عقوبة طويلة حقا يجب أن يكون طويلا حقا.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">أستطيع أن جعل عقوبة طويلة حقا ولصقه على ملف الموارد؟ ونأمل أن استوديوهات البصرية لا نشكو منها</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>بعض النصوص العشوائية هنا لملء خط آخر</source><seg-source><mrk
+            mtype="seg"
+            mid="1">بعض النصوص العشوائية هنا لملء خط آخر</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>سيرة ذاتية لإضافة قيم أو تعليقات</source><seg-source><mrk
+            mtype="seg"
+            mid="1">سيرة ذاتية لإضافة قيم أو تعليقات</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>مجرد جعل بعض محتوى</source><seg-source><mrk
+            mtype="seg"
+            mid="1">مجرد جعل بعض محتوى</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>لا مزيد من القيم؟ هذا شيء عظيم</source><seg-source><mrk
+            mtype="seg"
+            mid="1">لا مزيد من القيم؟ هذا شيء عظيم</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>إضافة قيمة هنا</source><seg-source><mrk
+            mtype="seg"
+            mid="1">إضافة قيمة هنا</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>هل تعتقد أن لدينا ما يكفي من المحتوى أو يجب أن أحافظ على إضافة المزيد من</source><seg-source><mrk
+            mtype="seg"
+            mid="1">هل تعتقد أن لدينا ما يكفي من المحتوى أو يجب أن أحافظ على إضافة المزيد من</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-value"
+        phase-name="pretrans"><source>ويهدف هذا الملف من الموارد للاختبار فقط</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ويهدف هذا الملف من الموارد للاختبار فقط</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

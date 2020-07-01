@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TRADOStag Version="2.0">
+    <FrontMatter>
+        <ToolSettings CreationDate="20160428T120112Z" CreationTool="SDL TRADOS XConvert" CreationToolVersion="8.3.0.863" />
+        <UserSettings DataType="PlugInConverted" O-Encoding="windows-1252" SettingsName="" SettingsPath="" SourceLanguage="EN-US" TargetLanguage="AR-IQ" TargetDefaultFont="" SourceDocumentPath="C:\Users\admin\Desktop\New Microsoft Excel Worksheet.xlsx" SettingsRelativePath="" PlugInInfo="&lt;PlugInInfo&gt;&lt;PlugIn&gt;&lt;Guid&gt;SDL Trados Excel 2007 Filter 1.0.0.0&lt;/Guid&gt;&lt;/PlugIn&gt;&lt;ScanInfo&gt;&lt;/ScanInfo&gt;&lt;CustomFileInfo&gt;&lt;/CustomFileInfo&gt;&lt;CustomFileInfo&gt;&lt;/CustomFileInfo&gt;&lt;/PlugInInfo&gt;" />
+    </FrontMatter>
+    <Body>
+        <Raw>
+            <ut Type="start" Style="external" RightEdge="angle" DisplayText="worksheet">&lt;worksheet&gt;</ut>
+            <ut Type="start" Style="external" RightEdge="angle" DisplayText="name">&lt;name&gt;</ut>
+            <Tu MatchPercent="0">
+                <Tuv Lang="EN-US">砻קยด1ตว融</Tuv>
+                <Tuv Lang="AR-IQ">砻קยด1ตว融</Tuv>
+            </Tu>
+            <ut Type="end" Style="external" LeftEdge="angle" DisplayText="name">&lt;/name&gt;</ut>
+            <df Size="11">
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="cell">&lt;cell font="Calibri" size="11" color="windowText"&gt;</ut>
+                <Tu MatchPercent="0">
+                    <Tuv Lang="EN-US">砻קยด2ตว融</Tuv>
+                    <Tuv Lang="AR-IQ">砻קยด2ตว融</Tuv>
+                </Tu>
+            </df>
+            <ut Type="end" Style="external" LeftEdge="angle" DisplayText="cell">&lt;/cell&gt;</ut>
+            <df Size="11">
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="cell">&lt;cell font="Arial" size="11" color="windowText"&gt;</ut>
+                <Tu MatchPercent="0">
+                    <Tuv Lang="EN-US">砻קยด3ตว融</Tuv>
+                    <Tuv Lang="AR-IQ">砻קยด3ตว融</Tuv>
+                </Tu>
+            </df>
+            <ut Type="end" Style="external" LeftEdge="angle" DisplayText="cell">&lt;/cell&gt;</ut>
+            <df Size="11">
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="cell">&lt;cell font="Calibri" size="11" color="windowText"&gt;</ut>
+                <Tu MatchPercent="0">
+                    <Tuv Lang="EN-US">砻קยด4ตว融</Tuv>
+                    <Tuv Lang="AR-IQ">砻קยด4ตว融</Tuv>
+                </Tu>
+            </df>
+            <ut Type="end" Style="external" LeftEdge="angle" DisplayText="cell">&lt;/cell&gt;</ut>
+            <df Size="11">
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="cell">&lt;cell font="Calibri" size="11" color="windowText"&gt;</ut>
+                <Tu MatchPercent="0">
+                    <Tuv Lang="EN-US">砻קยด5ตว融</Tuv>
+                    <Tuv Lang="AR-IQ">砻קยด5ตว融</Tuv>
+                </Tu>
+            </df>
+            <ut Type="end" Style="external" LeftEdge="angle" DisplayText="cell">&lt;/cell&gt;</ut>
+            <ut Type="end" Style="external" LeftEdge="angle" DisplayText="worksheet">&lt;/worksheet&gt;</ut>
+        </Raw>
+    </Body>
+</TRADOStag>

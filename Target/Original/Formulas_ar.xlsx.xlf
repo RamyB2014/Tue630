@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="Formulas.xlsx"
+    source-language="en"
+    target-language="ar"
+    MadCap:file-filter=""
+    datatype="x-xlsx">
+    <header>
+      <skl><external-file
+          href="Formulas.xlsx.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">15</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7486.22530"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="cell"
+        phase-name="pretrans"><source>ID</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ID</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="cell"
+        phase-name="pretrans"><source>Work Item Type</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Work Item Type</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="cell"
+        phase-name="pretrans"><source>Bug</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Bug</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="cell"
+        phase-name="pretrans"><source>Bug</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Bug</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="cell"
+        phase-name="pretrans"><source>Bug</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Bug</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="cell"
+        phase-name="pretrans"><source>Bug</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Bug</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="cell"
+        phase-name="pretrans"><source>Title</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Title</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="cell"
+        phase-name="pretrans"><source>Add / Remove languages buttons in SRX should be changed to arrow buttons to be consistent with other Lingo UI</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Add / Remove languages buttons in SRX should be changed to arrow buttons to be consistent with other Lingo UI</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="cell"
+        phase-name="pretrans"><source>Warning message no longer appearing when clicking to "import" new rules into Segmentation Rules Editor and custom rules currently exists</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Warning message no longer appearing when clicking to "import" new rules into Segmentation Rules Editor and custom rules currently exists</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="cell"
+        phase-name="pretrans"><source>Invalid regular expressions do not allow new projects to be created</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Invalid regular expressions do not allow new projects to be created</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="cell"
+        phase-name="pretrans"><source>Option to Import SRX file for Segmentation Rules Editor does not work</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Option to Import SRX file for Segmentation Rules Editor does not work</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="cell"
+        phase-name="pretrans"><source>Changed Date</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Changed Date</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="cell"
+        phase-name="pretrans"><source>ID * 2</source><seg-source><mrk
+            mtype="seg"
+            mid="1">ID * 2</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="cell"
+        phase-name="pretrans"><source>sum(A+G)</source><seg-source><mrk
+            mtype="seg"
+            mid="1">sum(A+G)</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="cell"
+        phase-name="pretrans"><source>Sheet1</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Sheet1</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

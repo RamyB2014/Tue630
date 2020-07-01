@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en" FileFormatVersion="6" CreatedInVersion="11" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="dc8fbb48-ab06-4832-b2fe-cffb12c574df">
+    <ProjectFile Source="Target/Original/%2A.%2A" Target="Target/Original/%2A.%2A" />
+</LingoProject>

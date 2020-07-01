@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TRADOStag Version="2.0">
+    <FrontMatter>
+        <ToolSettings CreationDate="20131014T101431Z" CreationTool="Sdl.FileTypeSupport.Filters.ConvertAdapter.TtxWriter" CreationToolVersion="1.0.0.0" />
+        <UserSettings DataType="HTML" O-Encoding="UTF-8" SettingsName="Predefined HTML Settings" SettingsPath="C:\Documents and Settings\All Users\Application Data\SDL International\Filters\HTML4.ini" SourceLanguage="AR-IQ" TargetLanguage="EN-US" TargetDefaultFont="Arial (Arabic)" SourceDocumentPath="C:\Documents and Settings\Administrator\Desktop\FileTypes\Arabic\HTML.htm" SettingsRelativePath="..\..\..\..\All Users\Application Data\SDL International\Filters\HTML4.ini" PlugInInfo="" />
+    </FrontMatter>
+    <Body>
+        <Raw>
+            <df Font="Arial">
+                <ut Style="external" DisplayText="!DOCTYPE">&lt;!DOCTYPE html&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="html">&lt;html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:lang="ar" dir="rtl" lang="ar" data-mc-search-type="Stem" data-mc-help-system-file-name="Default.xml" data-mc-path-to-help-system="../" data-mc-browse-sequence-path="عنوان 2 ارجوحة,بالون نص,اسقط الى الاسفل عدد 2,نص متّسع,متغيرات" data-mc-target-type="WebHelp2" data-mc-runtime-file-type="Topic" data-mc-preload-images="false" data-mc-in-preview-mode="false" data-mc-toc-path="ف2|CH2" data-mc-ignored-words=""&gt;</ut>
+                <ut Class="comment" DisplayText="Comment">&lt;!-- saved from url=(0014)about:internet --&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="head">&lt;head&gt;</ut>
+                <ut Style="external" DisplayText="meta">&lt;meta charset="utf-8" /&gt;</ut>
+                <ut Style="external" DisplayText="meta">&lt;meta http-equiv="Content-Type" content="text/html; charset=utf-8" /&gt;</ut>
+                <ut Style="external" DisplayText="meta">&lt;meta name="MadCapSearchable" content="true" /&gt;</ut>
+                <ut Style="external" DisplayText="meta">&lt;meta name="MadCapConcept" content="ارجوحة" /&gt;</ut>
+                <ut Style="external" DisplayText="meta">&lt;meta name="keywords" content="ارجوحة" /&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="title">&lt;title&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด1ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด1ตว融</Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="title">&lt;/title&gt;</ut>
+                <ut Style="external" DisplayText="link">&lt;link href="../Skins/Default/Stylesheets/TextEffects.css" rel="stylesheet" /&gt;</ut>
+                <ut Style="external" DisplayText="link">&lt;link href="../Skins/Default/Stylesheets/Topic.css" rel="stylesheet" /&gt;</ut>
+                <ut Style="external" DisplayText="link">&lt;link href="Resources/Stylesheets/Styles.css" rel="stylesheet" /&gt;</ut>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="head">&lt;/head&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="body">&lt;body&gt;</ut>
+            </df>
+            <df Font="Arial" Size="16">
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="h2">&lt;h2 data-mc-xref-target-name="عنوان_2أ_صورة,_رابط,_بالون_نص,توكلر"&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">
+                        <df Underline="on" Colour="0x0000ff">
+                            <ut Type="start" RightEdge="angle" DisplayText="a">&lt;a name="عنوان_2أ_صورة,_رابط,_بالون_نص,توكلر" data-mc-generated-bookmark="ListOf"&gt;</ut>
+                        </df>
+                        <ut Type="end" LeftEdge="angle" DisplayText="a">&lt;/a&gt;</ut>砻קยด2ตว融</Tuv>
+                    <Tuv Lang="EN-US">
+                        <df Underline="on" Colour="0x0000ff">
+                            <ut Type="start" RightEdge="angle" DisplayText="a">&lt;a name="عنوان_2أ_صورة,_رابط,_بالون_نص,توكلر" data-mc-generated-bookmark="ListOf"&gt;</ut>
+                        </df>
+                        <ut Type="end" LeftEdge="angle" DisplayText="a">&lt;/a&gt;</ut>砻קยด2ตว融</Tuv>
+                </Tu>
+            </df>
+            <df Font="Arial">
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="h2">&lt;/h2&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p class="garfield"&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด3ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด3ตว融</Tuv>
+                </Tu>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด4ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด4ตว融</Tuv>
+                </Tu>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด5ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด5ตว融</Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>&#160;<ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut><ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut><Tu Origin="undefined" MatchPercent="0"><Tuv Lang="AR-IQ">砻קยด6ตว融<ut Type="end" LeftEdge="angle" DisplayText="a">&lt;/a&gt;</ut></Tuv><Tuv Lang="EN-US">砻קยด6ตว融<ut Type="end" LeftEdge="angle" DisplayText="a">&lt;/a&gt;</ut></Tuv></Tu><ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut><ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>&#160;<ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut><ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut><Tu Origin="undefined" MatchPercent="0"><Tuv Lang="AR-IQ"><ut Type="start" RightEdge="angle" DisplayText="span">&lt;span class="MCTextPopup popup  popupHead "&gt;</ut>砻קยด7ตว融</Tuv><Tuv Lang="EN-US"><ut Type="start" RightEdge="angle" DisplayText="span">&lt;span class="MCTextPopup popup  popupHead "&gt;</ut>砻קยด7ตว融</Tuv></Tu><Tu Origin="undefined" MatchPercent="0"><Tuv Lang="AR-IQ">砻קยด8ตว融</Tuv><Tuv Lang="EN-US">砻קยด8ตว融</Tuv></Tu><Tu Origin="undefined" MatchPercent="0"><Tuv Lang="AR-IQ">砻קยด9ตว融<ut Type="end" LeftEdge="angle" DisplayText="span">&lt;/span&gt;</ut><ut Type="end" LeftEdge="angle" DisplayText="span">&lt;/span&gt;</ut></Tuv><Tuv Lang="EN-US">砻קยด9ตว融<ut Type="end" LeftEdge="angle" DisplayText="span">&lt;/span&gt;</ut><ut Type="end" LeftEdge="angle" DisplayText="span">&lt;/span&gt;</ut></Tuv></Tu><ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut><ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>&#160;<ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut><ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut><ut Type="start" RightEdge="angle" DisplayText="span">&lt;span class="MCToggler MCTogglerHead MCTogglerHotSpot MCToggler_Open toggler  MCTogglerHotSpot_" data-mc-targets="T1"&gt;</ut></df>
+            <df Underline="on" Font="Arial" Colour="0x0000ff">
+                <ut Type="start" RightEdge="angle" DisplayText="a">&lt;a name="aanchor0"&gt;</ut>
+            </df>
+            <df Font="Arial">
+                <ut Type="end" LeftEdge="angle" DisplayText="a">&lt;/a&gt;</ut>
+                <ut DisplayText="MadCap:concept">&lt;MadCap:concept term="ارجوحة" /&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด10ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด10ตว融</Tuv>
+                </Tu>
+                <ut Type="end" LeftEdge="angle" DisplayText="span">&lt;/span&gt;</ut>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p style="display: none;" data-mc-target-name="T1"&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด11ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด11ตว融</Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด12ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด12ตว融</Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด13ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด13ตว融</Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด14ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด14ตว融</Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด15ตว融<df Underline="on" Colour="0x0000ff"><ut Type="start" RightEdge="angle" DisplayText="a">&lt;a name="kanchor17"&gt;</ut></df><ut Type="end" LeftEdge="angle" DisplayText="a">&lt;/a&gt;</ut></Tuv>
+                    <Tuv Lang="EN-US">砻קยด15ตว融<df Underline="on" Colour="0x0000ff"><ut Type="start" RightEdge="angle" DisplayText="a">&lt;a name="kanchor17"&gt;</ut></df><ut Type="end" LeftEdge="angle" DisplayText="a">&lt;/a&gt;</ut></Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">
+                        <ut Type="start" RightEdge="angle" DisplayText="span">&lt;span class="MCTextPopup MCTextPopup MCTextPopupHotSpot MCTextPopup_Open MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup #text  #text Popup"&gt;</ut>砻קยด16ตว融</Tuv>
+                    <Tuv Lang="EN-US">
+                        <ut Type="start" RightEdge="angle" DisplayText="span">&lt;span class="MCTextPopup MCTextPopup MCTextPopupHotSpot MCTextPopup_Open MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup #text  #text Popup"&gt;</ut>砻קยด16ตว融</Tuv>
+                </Tu>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด17ตว融<ut Type="end" LeftEdge="angle" DisplayText="span">&lt;/span&gt;</ut><ut Type="end" LeftEdge="angle" DisplayText="span">&lt;/span&gt;</ut></Tuv>
+                    <Tuv Lang="EN-US">砻קยด17ตว融<ut Type="end" LeftEdge="angle" DisplayText="span">&lt;/span&gt;</ut><ut Type="end" LeftEdge="angle" DisplayText="span">&lt;/span&gt;</ut></Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Style="external" DisplayText="hr">&lt;hr width="100%" size="0" align="center" /&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="div">&lt;div style="width: 287px; height: 146px;" class="testDiv"&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด18ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด18ตว融</Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Type="start" Style="external" RightEdge="angle" DisplayText="p">&lt;p&gt;</ut>
+                <Tu Origin="undefined" MatchPercent="0">
+                    <Tuv Lang="AR-IQ">砻קยด19ตว融</Tuv>
+                    <Tuv Lang="EN-US">砻קยด19ตว融</Tuv>
+                </Tu>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="p">&lt;/p&gt;</ut>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="body">&lt;/body&gt;</ut>
+                <ut Type="end" Style="external" LeftEdge="angle" DisplayText="html">&lt;/html&gt;</ut>
+            </df>
+        </Raw>
+    </Body>
+</TRADOStag>

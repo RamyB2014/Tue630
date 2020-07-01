@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="txml.txml"
+    source-language="en"
+    target-language="es"
+    MadCap:file-filter=""
+    datatype="x-txml">
+    <header>
+      <skl><external-file
+          href="txml.txml.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">20</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7486.22530"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>N<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut x="2" type="unknown"&gt;&amp;lt;/Content&amp;gt;&amp;lt;/CharacterStyleRange&amp;gt;&amp;lt;CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Normal" FillColor="Color/55,10,0,0" FontStyle="Bold" PointSize="22" Tracking="75"&amp;gt;&amp;lt;Properties&amp;gt;&amp;lt;Leading type="unit"&amp;gt;27&amp;lt;/Leading&amp;gt;&amp;lt;AppliedFont type="string"&amp;gt;Arial&amp;lt;/AppliedFont&amp;gt;&amp;lt;/Properties&amp;gt;&amp;lt;Content&amp;gt;&lt;/ut&gt;</ph>ext<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut x="3" type="unknown"&gt;&amp;lt;/Content&amp;gt;&amp;lt;/CharacterStyleRange&amp;gt;&amp;lt;CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Normal" FillColor="Color/55,10,0,0" PointSize="22" Tracking="75"&amp;gt;&amp;lt;Properties&amp;gt;&amp;lt;Leading type="unit"&amp;gt;27&amp;lt;/Leading&amp;gt;&amp;lt;AppliedFont type="string"&amp;gt;Arial&amp;lt;/AppliedFont&amp;gt;&amp;lt;/Properties&amp;gt;&amp;lt;Content&amp;gt;&lt;/ut&gt;</ph> <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut x="4" type="unknown"&gt;&amp;lt;/Content&amp;gt;&amp;lt;/CharacterStyleRange&amp;gt;&amp;lt;CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Normal" FillColor="Color/75,60,45,55" PointSize="22" Tracking="75"&amp;gt;&amp;lt;Properties&amp;gt;&amp;lt;Leading type="unit"&amp;gt;27&amp;lt;/Leading&amp;gt;&amp;lt;AppliedFont type="string"&amp;gt;Arial&amp;lt;/AppliedFont&amp;gt;&amp;lt;/Properties&amp;gt;&amp;lt;Content&amp;gt;&lt;/ut&gt;</ph>Generation</source><seg-source><mrk
+            mtype="seg"
+            mid="1">N<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut x="2" type="unknown"&gt;&amp;lt;/Content&amp;gt;&amp;lt;/CharacterStyleRange&amp;gt;&amp;lt;CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Normal" FillColor="Color/55,10,0,0" FontStyle="Bold" PointSize="22" Tracking="75"&amp;gt;&amp;lt;Properties&amp;gt;&amp;lt;Leading type="unit"&amp;gt;27&amp;lt;/Leading&amp;gt;&amp;lt;AppliedFont type="string"&amp;gt;Arial&amp;lt;/AppliedFont&amp;gt;&amp;lt;/Properties&amp;gt;&amp;lt;Content&amp;gt;&lt;/ut&gt;</ph>ext<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut x="3" type="unknown"&gt;&amp;lt;/Content&amp;gt;&amp;lt;/CharacterStyleRange&amp;gt;&amp;lt;CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Normal" FillColor="Color/55,10,0,0" PointSize="22" Tracking="75"&amp;gt;&amp;lt;Properties&amp;gt;&amp;lt;Leading type="unit"&amp;gt;27&amp;lt;/Leading&amp;gt;&amp;lt;AppliedFont type="string"&amp;gt;Arial&amp;lt;/AppliedFont&amp;gt;&amp;lt;/Properties&amp;gt;&amp;lt;Content&amp;gt;&lt;/ut&gt;</ph> <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut x="4" type="unknown"&gt;&amp;lt;/Content&amp;gt;&amp;lt;/CharacterStyleRange&amp;gt;&amp;lt;CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Normal" FillColor="Color/75,60,45,55" PointSize="22" Tracking="75"&amp;gt;&amp;lt;Properties&amp;gt;&amp;lt;Leading type="unit"&amp;gt;27&amp;lt;/Leading&amp;gt;&amp;lt;AppliedFont type="string"&amp;gt;Arial&amp;lt;/AppliedFont&amp;gt;&amp;lt;/Properties&amp;gt;&amp;lt;Content&amp;gt;&lt;/ut&gt;</ph>Generation</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>Networking</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Networking</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>Lorem ipsum dolor sit amet, consectetuer adipis</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Lorem ipsum dolor sit amet, consectetuer adipis</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>cing elit, sed diam nonummy nibh euismod tin</source><seg-source><mrk
+            mtype="seg"
+            mid="1">cing elit, sed diam nonummy nibh euismod tin</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>cidunt ut laoreet dolore magna aliquam erat volut</source><seg-source><mrk
+            mtype="seg"
+            mid="1">cidunt ut laoreet dolore magna aliquam erat volut</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>pat.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">pat.</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut commodo consequat.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut commodo consequat.</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>Put our services to the test, contact us</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Put our services to the test, contact us</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>for a free consultation today.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">for a free consultation today.</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>IT CONSULTING</source><seg-source><mrk
+            mtype="seg"
+            mid="1">IT CONSULTING</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>NETWORKS</source><seg-source><mrk
+            mtype="seg"
+            mid="1">NETWORKS</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>SECURITY</source><seg-source><mrk
+            mtype="seg"
+            mid="1">SECURITY</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>HOSTING</source><seg-source><mrk
+            mtype="seg"
+            mid="1">HOSTING</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>CLOUD SERVICES</source><seg-source><mrk
+            mtype="seg"
+            mid="1">CLOUD SERVICES</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>INFORMATION</source><seg-source><mrk
+            mtype="seg"
+            mid="1">INFORMATION</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>TECHNOLOGY</source><seg-source><mrk
+            mtype="seg"
+            mid="1">TECHNOLOGY</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>5432 ANY STREET WEST, TOWNSVILLE STATE 54321 | p:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">5432 ANY STREET WEST, TOWNSVILLE STATE 54321 | p:</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>555-543-5432 | f:</source><seg-source><mrk
+            mtype="seg"
+            mid="1">555-543-5432 | f:</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>555-543-5433</source><seg-source><mrk
+            mtype="seg"
+            mid="1">555-543-5433</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="20"
+        restype="x-xml-source"
+        phase-name="pretrans"><source>WWW.YOURWEBSITEHERE.COM</source><seg-source><mrk
+            mtype="seg"
+            mid="1">WWW.YOURWEBSITEHERE.COM</mrk></seg-source><target
+          state="not-set"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

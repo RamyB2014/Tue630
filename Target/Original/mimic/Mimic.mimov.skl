@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MimicMovie Width="991" Height="597" OutputType="silverlight" X="0" Y="0" xml:space="preserve">
+    <Frames>
+        <Frame ComputedWidth="991" ComputedHeight="597">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="-4" Y="0" Width="151" Height="30" Right="844" Bottom="567" Left="-4" Top="0" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Red" VerticalAlign="center">砻קยด1ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="-3" Y="36" Width="176" Height="30" Right="818" Bottom="531" Left="-3" Top="36" FontSize="12" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="#0000ff" TextAlign="left">砻קยด2ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="-2" Y="73" Width="151" Height="30" Right="842" Bottom="494" Left="-2" Top="73" FontSize="12" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="true" Color="#ffd700" TextAlign="right">砻קยด3ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="3" Y="115" Width="110" Height="23" Right="878" Bottom="459" Left="3" Top="115" FontSize="14" FontFamily="Arial" FontWeight="Bold" FontStyle="normal" Underline="false" Color="#800080" VerticalAlign="bottom" TextAlign="center">砻קยด4ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="0" Y="150" Width="168" Height="30" Right="823" Bottom="417" Left="0" Top="150" FontSize="10" FontFamily="Book Antiqua" FontWeight="normal" FontStyle="Italic" Underline="false" Color="#32cd32" TextAlign="left" VerticalAlign="top">砻קยด5ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="1" Y="188" Width="118" Height="30" Right="872" Bottom="379" Left="1" Top="188" FontSize="12" FontFamily="Batang" FontWeight="normal" FontStyle="normal" Underline="false" Color="#ff0000" Transparency="0.5">砻קยด6ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="0" Y="226" Width="151" Height="30" Right="840" Bottom="341" Left="0" Top="226" FontSize="14" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="#ff0000" EnableShadow="true" ShadowTransparency="0" TextAlign="right">砻קยด7ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="-1" Y="267" Width="151" Height="30" Right="841" Bottom="300" Left="-1" Top="267" FontSize="18" FontFamily="Arial" FontWeight="Bold" FontStyle="Italic" Underline="true" Color="#ff0000" VerticalAlign="top">砻קยด8ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="1" Y="304" Width="137" Height="28" Right="853" Bottom="265" Left="1" Top="304" FontSize="22" FontFamily="Calibri" FontWeight="normal" FontStyle="normal" Underline="false" Color="#4b0082" TextAlign="right">砻קยด9ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="3" Y="344" Width="117" Height="21" Right="871" Bottom="232" Left="3" Top="344" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Red" Anchors="" Conditions="" InAnimation="Fade()" EnableShadow="true" ShadowTransparency="0.75">砻קยด10ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="2" Y="381" Width="207" Height="69" Right="782" Bottom="147" Left="2" Top="381" FontSize="12" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="#556b2f" TextAlign="left" VerticalAlign="bottom" Transparency="0.2">砻קยด11ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="1" Y="455" Width="151" Height="30" Right="839" Bottom="112" Left="1" Top="455" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Red" Anchors="" InAnimation="Fade()" Conditions="" LineWidth="3">砻קยด12ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="0" Y="494" Width="151" Height="30" Right="840" Bottom="73" Left="0" Top="494" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Red" Animation="Move" AnimationEndX="241" AnimationEndY="510">砻קยด13ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="0" Y="533" Width="151" Height="30" Right="840" Bottom="34" Left="0" Top="533" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Red" Animation="Shake()">砻קยด14ตว融</Shape>
+                    <Shape Type="Rectangle" X="177" Y="5" Width="390" Height="17" Right="424" Bottom="575" Left="177" Top="5" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" TextAlign="left">砻קยด15ตว融</Shape>
+                    <Shape Type="Rectangle" X="176" Y="38" Width="325" Height="29" Right="490" Bottom="530" Left="176" Top="38" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" TextAlign="left">砻קยด16ตว融</Shape>
+                    <Shape Type="Rectangle" X="177" Y="74" Width="396" Height="31" Right="418" Bottom="492" Left="177" Top="74" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" TextAlign="left">砻קยด17ตว融</Shape>
+                    <Shape Type="Rectangle" X="178" Y="115" Width="782" Height="34" Right="31" Bottom="448" Left="178" Top="115" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" VerticalAlign="top" TextAlign="left">砻קยด18ตว融</Shape>
+                    <Shape Type="Rectangle" X="173" Y="233" Width="483" Height="28" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" Right="335" Bottom="336" Left="173" Top="233" TextAlign="left">砻קยด19ตว融</Shape>
+                    <Shape Type="Rectangle" X="174" Y="193" Width="481" Height="30" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" Right="336" Bottom="374" Left="174" Top="193" TextAlign="left">砻קยด20ตว融</Shape>
+                    <Shape Type="Rectangle" X="172" Y="269" Width="821" Height="30" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" Right="-2" Bottom="298" Left="172" Top="269" TextAlign="left">砻קยด21ตว融</Shape>
+                    <Shape Type="Rectangle" X="173" Y="309" Width="327" Height="21" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" Right="491" Bottom="267" Left="173" Top="309" TextAlign="left">砻קยด22ตว融</Shape>
+                    <Shape Type="Rectangle" X="174" Y="347" Width="514" Height="24" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" Right="303" Bottom="226" Left="174" Top="347" TextAlign="left">砻קยด23ตว融</Shape>
+                    <Shape Type="Rectangle" X="176" Y="156" Width="394" Height="29" Right="421" Bottom="412" Left="176" Top="156" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" TextAlign="left">砻קยด24ตว融</Shape>
+                    <Shape Type="Rectangle" X="214" Y="372" Width="479" Height="80" Right="298" Bottom="145" Left="214" Top="372" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" TextAlign="left">砻קยด25ตว融</Shape>
+                    <Shape Type="Rectangle" X="175" Y="461" Width="534" Height="30" Right="282" Bottom="106" Left="175" Top="461" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" LineWidth="1" TextAlign="left">砻קยด26ตว融</Shape>
+                    <Shape Type="Rectangle" X="338" Y="500" Width="410" Height="32" Right="243" Bottom="65" Left="338" Top="500" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" TextAlign="left">砻קยด27ตว融</Shape>
+                    <Shape Type="Rectangle" X="173" Y="537" Width="431" Height="31" Right="387" Bottom="29" Left="173" Top="537" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" TextAlign="left">砻קยด28ตว融</Shape>
+                    <Shape Type="Rectangle" BackgroundColor="#ffffff" X="0" Y="576" Width="198" Height="30" Right="793" Bottom="-9" Left="0" Top="576" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Red" Animation="none" EnableZoomEffect="false" Anchors="" Conditions="" OutAnimation="none" ZoomEffectMoveXFactor="1.0" ZoomEffectMoveYFactor="0.1" InAnimation="Reveal()">砻קยด29ตว融</Shape>
+                    <Shape Type="Rectangle" X="220" Y="574" Width="431" Height="31" Right="340" Bottom="-8" Left="220" Top="574" FontSize="12pt" FontFamily="Arial" FontWeight="normal" FontStyle="normal" Underline="false" Color="Black" TextAlign="left">砻קยด30ตว融</Shape>
+                </Shapes>
+                <Shapes IsResourceLayer="true" Name="Resources" />
+                <ConditionTagSet />
+            </Shapes>
+            <AFrames />
+        </Frame>
+        <Frame ComputedWidth="991" ComputedHeight="597">
+            <Shapes>
+                <Shapes />
+                <Shapes IsResourceLayer="true" Name="Resources" />
+                <ConditionTagSet />
+            </Shapes>
+            <AFrames />
+        </Frame>
+    </Frames>
+    <Skin>
+        <Stylesheet />
+    </Skin>
+    <Variables />
+    <TargetSet />
+    <ConditionTagSet>
+        <ConditionTag Name="Advanced" BackgroundColor="#0000ff" />
+        <ConditionTag Name="Beginner" BackgroundColor="#ff0000" />
+    </ConditionTagSet>
+    <MasterFrames>
+        <Frame Name="Navigation">
+            <Shapes>
+                <Shapes>
+                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoPrevious" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="75" Bottom="10" CornerRadius="10">砻קยด31ตว融</Shape>
+                    <Shape Type="Button" TimeSpanned="false" Width="60" Height="30" BackgroundColor="#e0ffff" Action="GotoNext" BackgroundType="GradientSN" Anchors="Right,Bottom" LineColor="#a9a9a9" Color="#0000ff" HoverBackgroundType="GradientSN" HoverBackgroundColor="#e0ffff" HoverBackgroundColorAlt="#ffffff" HoverLineColor="#a9a9a9" HoverLineWidth="1" HoverColor="#0000ff" HoverFontWeight="Bold" HoverUnderline="true" PressedBackgroundColor="#e0ffff" PressedLineColor="#a9a9a9" PressedLineWidth="1" PressedFontWeight="Bold" PressedUnderline="true" PressedColor="#ff4500" Right="10" Bottom="10" CornerRadius="10">砻קยด32ตว融</Shape>
+                </Shapes>
+                <OriginalImage />
+            </Shapes>
+            <AFrames />
+        </Frame>
+    </MasterFrames>
+</MimicMovie>

@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="ttx.ttx"
+    source-language="en"
+    target-language="es"
+    MadCap:file-filter=""
+    datatype="x-ttx">
+    <header>
+      <skl><external-file
+          href="ttx.ttx.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">19</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7486.22530"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>مقالة كارفيلد</source><seg-source><mrk
+            mtype="seg"
+            mid="1">مقالة كارفيلد</mrk></seg-source><target
+          state="translated"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Font="Arial Unicode MS"&gt;</bpt>مقالة كارفيلد<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/df&gt;</ept></mrk></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>عنوان 2أ صورة, رابط, بالون نص,توكلر</source><seg-source><mrk
+            mtype="seg"
+            mid="1">عنوان 2أ صورة, رابط, بالون نص,توكلر</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>هذا <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor7"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>النص سيكون <ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor8"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>طويلا جدا <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor9"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>الكلب الذي كان يدور في <ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor10"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>الحي <ph
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor11"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>البارحة وصل الى <ph
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor12"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph><bpt
+            id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Italic="on"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="i"&gt;&amp;lt;i style="mc-italic-correction: 2in;"&amp;gt;&lt;/ut&gt;</bpt>هوليوود<ept
+            id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/df&gt;</ept><ph
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="i"&gt;&amp;lt;/i&amp;gt;&lt;/ut&gt;</ph> بولفارد.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">هذا <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor7"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>النص سيكون <ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor8"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>طويلا جدا <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor9"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>الكلب الذي كان يدور في <ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor10"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>الحي <ph
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor11"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>البارحة وصل الى <ph
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor12"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph><bpt
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Italic="on"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="i"&gt;&amp;lt;i style="mc-italic-correction: 2in;"&amp;gt;&lt;/ut&gt;</bpt>هوليوود<ept
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/df&gt;</ept><ph
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="i"&gt;&amp;lt;/i&amp;gt;&lt;/ut&gt;</ph> بولفارد.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>و حظي بفرصة رؤية <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor13"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopup MCTextPopup MCTextPopupHotSpot MCTextPopup_Open MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup #text  #text Popup"&amp;gt;&lt;/ut&gt;</ph>كارفيلد<ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupBody popupBody"&amp;gt;&lt;/ut&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupArrow"&amp;gt;&lt;/ut&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;</ph>هوة شخصية كارتونية مشهورة..</source><seg-source><mrk
+            mtype="seg"
+            mid="1">و حظي بفرصة رؤية <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor13"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopup MCTextPopup MCTextPopupHotSpot MCTextPopup_Open MCTextPopupHotSpot_ MCTextPopupHotSpot_Popup #text  #text Popup"&amp;gt;&lt;/ut&gt;</ph>كارفيلد<ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupBody popupBody"&amp;gt;&lt;/ut&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupArrow"&amp;gt;&lt;/ut&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;</ph>هوة شخصية كارتونية مشهورة..</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>معروف بكونه قط كسول جداً<ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;</ph> المشهور, التجول معه و الكثير من <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="start" RightEdge="angle" DisplayText="MadCap:glossaryTerm"&gt;&amp;lt;MadCap:glossaryTerm&amp;gt;&lt;/ut&gt;</ph>المشاهير<ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="MadCap:glossaryTerm"&gt;&amp;lt;/MadCap:glossaryTerm&amp;gt;&lt;/ut&gt;</ph>.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">معروف بكونه قط كسول جداً<ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;</ph> المشهور, التجول معه و الكثير من <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="start" RightEdge="angle" DisplayText="MadCap:glossaryTerm"&gt;&amp;lt;MadCap:glossaryTerm&amp;gt;&lt;/ut&gt;</ph>المشاهير<ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="MadCap:glossaryTerm"&gt;&amp;lt;/MadCap:glossaryTerm&amp;gt;&lt;/ut&gt;</ph>.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="split" DisplayText="a ...title="&gt;&amp;lt;a href="http://www.msn.com/" target="_top" title="&lt;/ut&gt;</bpt>هذا الرابط سياخذك الى موقع ام اس ان الالكتروني<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="split" RightEdge="angle" DisplayText="..."&gt;" alt="هذا الرابط سياخذك الى موقع ام اس ان الالكتروني"&amp;gt;&lt;/ut&gt;</ph>موقع ياهو<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/df&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="split" DisplayText="a ...title="&gt;&amp;lt;a href="http://www.msn.com/" target="_top" title="&lt;/ut&gt;</bpt>هذا الرابط سياخذك الى موقع ام اس ان الالكتروني<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="split" RightEdge="angle" DisplayText="..."&gt;" alt="هذا الرابط سياخذك الى موقع ام اس ان الالكتروني"&amp;gt;&lt;/ut&gt;</ph>موقع ياهو<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/df&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>اضغطني!<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupBody MCTextPopupBody_Closed needs-pie popupBody "&amp;gt;&lt;/ut&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupArrow"&amp;gt;&lt;/ut&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;</ph>هذا النص سيكون طويلا جدا.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">اضغطني!<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupBody MCTextPopupBody_Closed needs-pie popupBody "&amp;gt;&lt;/ut&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupArrow"&amp;gt;&lt;/ut&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;</ph>هذا النص سيكون طويلا جدا.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>القرد الذي كان يدور في الحي البارحة وصل الى هوليوود بولفارد.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">القرد الذي كان يدور في الحي البارحة وصل الى هوليوود بولفارد.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>و حظي بفرصة رؤية كارفيلد المشهور, التجول معه و الكثير من المشاهير.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">و حظي بفرصة رؤية كارفيلد المشهور, التجول معه و الكثير من المشاهير.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>رجحني!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">رجحني!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>الفديو هنا يا اصدقائي يتحدث عن <ph
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor14"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>طبيعة الذئاب<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor15"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph> كيف يستمرون بازعاج <ph
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor16"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>المخلوقات الاخرى, بجانب اتخاذهم كوجبة!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">الفديو هنا يا اصدقائي يتحدث عن <ph
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor14"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>طبيعة الذئاب<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor15"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph> كيف يستمرون بازعاج <ph
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Underline="on" Colour="0x0000ff"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="a"&gt;&amp;lt;a name="kanchor16"&amp;gt;&lt;/ut&gt;&lt;/df&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="a"&gt;&amp;lt;/a&amp;gt;&lt;/ut&gt;</ph>المخلوقات الاخرى, بجانب اتخاذهم كوجبة!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>امسحه الان!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">امسحه الان!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>امسحه الان!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">امسحه الان!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>امسحها!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">امسحها!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>امسحهم!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">امسحهم!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>كارفيلد<ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupBody popupBody"&amp;gt;&lt;/ut&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupArrow"&amp;gt;&lt;/ut&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;</ph>هوة شخصية كارتونية مشهورة..</source><seg-source><mrk
+            mtype="seg"
+            mid="1">كارفيلد<ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupBody popupBody"&amp;gt;&lt;/ut&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="span"&gt;&amp;lt;span class="MCTextPopupArrow"&amp;gt;&lt;/ut&gt;&lt;ut Type="end" LeftEdge="angle" DisplayText="span"&gt;&amp;lt;/span&amp;gt;&lt;/ut&gt;</ph>هوة شخصية كارتونية مشهورة..</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>معروف بكونه قط كسول جداً</source><seg-source><mrk
+            mtype="seg"
+            mid="1">معروف بكونه قط كسول جداً</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source>لمعلوماتك!</source><seg-source><mrk
+            mtype="seg"
+            mid="1">لمعلوماتك!</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-tuv"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Bold="on"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="b"&gt;&amp;lt;b&amp;gt;&lt;/ut&gt;</bpt>القطة<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/df&gt;</ept><ph
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="b"&gt;&amp;lt;/b&amp;gt;&lt;/ut&gt;</ph> التي كانت تاخذ <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Italic="on"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="i"&gt;&amp;lt;i style="mc-italic-correction: 2in;"&amp;gt;&lt;/ut&gt;</bpt>جولة <ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/df&gt;</ept><ph
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="i"&gt;&amp;lt;/i&amp;gt;&lt;/ut&gt;</ph>في المنزل جديد و مرتب</source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Bold="on"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="b"&gt;&amp;lt;b&amp;gt;&lt;/ut&gt;</bpt>القطة<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/df&gt;</ept><ph
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="b"&gt;&amp;lt;/b&amp;gt;&lt;/ut&gt;</ph> التي كانت تاخذ <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;df Italic="on"&gt;&lt;ut Type="start" RightEdge="angle" DisplayText="i"&gt;&amp;lt;i style="mc-italic-correction: 2in;"&amp;gt;&lt;/ut&gt;</bpt>جولة <ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/df&gt;</ept><ph
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;ut Type="end" LeftEdge="angle" DisplayText="i"&gt;&amp;lt;/i&amp;gt;&lt;/ut&gt;</ph>في المنزل جديد و مرتب</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>

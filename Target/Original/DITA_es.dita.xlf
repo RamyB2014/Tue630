@@ -1,0 +1,579 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff
+  version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+  MadCap:translationStatus="untranslated">
+  <file
+    xml:space="preserve"
+    original="DITA.dita"
+    source-language="en"
+    target-language="es"
+    MadCap:file-filter=""
+    datatype="xhtml">
+    <header>
+      <skl><external-file
+          href="DITA.dita.skl" /></skl>
+      <phase-group>
+        <phase
+          phase-name="translation"
+          process-name="translation" />
+        <phase
+          phase-name="completion"
+          process-name="translation" />
+        <phase
+          phase-name="approval"
+          process-name="review" />
+        <phase
+          phase-name="pretrans"
+          process-name="pre-translation" />
+      </phase-group>
+      <count-group
+        name="MadCap Statistics">
+        <count
+          count-type="total"
+          unit="segment">47</count>
+        <count
+          count-type="x-subflow"
+          unit="trans-unit">0</count>
+      </count-group>
+      <tool
+        tool-id="MadCap Lingo 11 r2"
+        tool-name="Lingo"
+        tool-version="11.1.7486.22530"
+        tool-company="MadCap Software" />
+    </header>
+    <body><trans-unit
+        id="1"
+        restype="x-xml-title"
+        phase-name="pretrans"><source>DITA Proposed Feature # NN</source><seg-source><mrk
+            mtype="seg"
+            mid="1">DITA Proposed Feature # NN</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="2"
+        restype="x-xml-shortdesc"
+        phase-name="pretrans"><source>Allow window specifications for display of online content to be
+	 defined in the ditamap.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Allow window specifications for display of online content to be defined in the ditamap.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="3"
+        restype="x-xml-title"
+        phase-name="pretrans"><source>Longer description</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Longer description</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="4"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>When a Help system is invoked from an application, it is desirable to
+		  specify the size, position and behaviour of the window displaying the Help
+		  content. Some Help Application Programming Interfaces (APIs) provide for a
+		  window name to be passed in the Help call. In some cases, the definition for
+		  the window of the called window definition will be embedded in the Help system.
+		  In other cases, the complete window definition information will be passed in
+		  the Help call itself.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">When a Help system is invoked from an application, it is desirable to specify the size, position and behaviour of the window displaying the Help content.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Some Help Application Programming Interfaces (APIs) provide for a window name to be passed in the Help call.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">In some cases, the definition for the window of the called window definition will be embedded in the Help system.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">In other cases, the complete window definition information will be passed in the Help call itself.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="5"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>To cater for Help systems with embedded window information, it is
+		  important to define that information in the ditamap being processed, so that
+		  the processor can incorporate the definitions in the generated output file.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">To cater for Help systems with embedded window information, it is important to define that information in the ditamap being processed, so that the processor can incorporate the definitions in the generated output file.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="6"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>This proposal suggests adding a 
+		  <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element, valid within the 
+		  <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>map<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element. The 
+		  <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element would contain optional attributes of 
+		  <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>id<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, 
+		  <bpt
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>name<ept
+            id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, 
+		  <bpt
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>top<ept
+            id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, 
+		  <bpt
+            id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>left<ept
+            id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, 
+		  <bpt
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>height<ept
+            id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, 
+		  <bpt
+            id="9" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>width<ept
+            id="9" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, 
+		  <bpt
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>on-top<ept
+            id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, 
+		  <bpt
+            id="11" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>features<ept
+            id="11" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, 
+		  <bpt
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>relative<ept
+            id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, and 
+		  <bpt
+            id="13" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>full-screen<ept
+            id="13" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>. None, one or many 
+		  <bpt
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+            id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> elements would be permitted within the parent
+		  element. The 
+		  <bpt
+            id="15" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>relative<ept
+            id="15" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> attribute is a Boolean flag used to indicate
+		  whether the window dimensions are relative to the calling window, or are
+		  absolute positions.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">This proposal suggests adding a <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element, valid within the <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>map<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">The <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element would contain optional attributes of <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>id<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, <bpt
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>name<ept
+              id="5" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, <bpt
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>top<ept
+              id="6" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, <bpt
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>left<ept
+              id="7" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, <bpt
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>height<ept
+              id="8" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, <bpt
+              id="9" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>width<ept
+              id="9" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, <bpt
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>on-top<ept
+              id="10" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, <bpt
+              id="11" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>features<ept
+              id="11" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, <bpt
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>relative<ept
+              id="12" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>, and <bpt
+              id="13" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>full-screen<ept
+              id="13" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept>.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">None, one or many <bpt
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+              id="14" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> elements would be permitted within the parent element.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">The <bpt
+              id="15" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>relative<ept
+              id="15" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> attribute is a Boolean flag used to indicate whether the window dimensions are relative to the calling window, or are absolute positions.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="7"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Example of markup: 
+		  <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;codeblock&gt;</bpt>&lt;map title="Widget Help"&gt;
+<bpt
+            id="2"
+            ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>&lt;ua-window id="fg23" name="csh" top="10" left="20" height="400" width="500" 
+   features="status=yes,toolbar=no,menubar=no,location=no" relative="true",
+   full-screen="no" /&gt;<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept>
+ &lt;topicref href="file_ops.dita" type="concept"&gt;
+   &lt;topicref href="saving.dita" type="task" /&gt;
+   &lt;topicref href="deleting.dita" type="task" /&gt;
+   &lt;topicref href="editing.dita" type="task"&gt;
+     &lt;topicmeta&gt;
+       &lt;help help-id="5432" help-string="idh_fileedit" help-window="ua"  /&gt;
+     &lt;topicmeta&gt;
+   &lt;/topicref&gt;
+&lt;/topicref&gt;
+&lt;/map&gt;<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/codeblock&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1">Example of markup: <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;codeblock&gt;</bpt>&lt;map title="Widget Help"&gt; <bpt
+              id="2"
+              ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>&lt;ua-window id="fg23" name="csh" top="10" left="20" height="400" width="500" features="status=yes,toolbar=no,menubar=no,location=no" relative="true", full-screen="no" /&gt;<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept> &lt;topicref href="file_ops.dita" type="concept"&gt; &lt;topicref href="saving.dita" type="task" /&gt; &lt;topicref href="deleting.dita" type="task" /&gt; &lt;topicref href="editing.dita" type="task"&gt; &lt;topicmeta&gt; &lt;help help-id="5432" help-string="idh_fileedit" help-window="ua" /&gt; &lt;topicmeta&gt; &lt;/topicref&gt; &lt;/topicref&gt; &lt;/map&gt;<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/codeblock&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="8"
+        restype="x-xml-title"
+        phase-name="pretrans"><source>Scope</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Scope</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>The 
+		  <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element cannot be easily specialised from an
+		  existing element.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">The <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element cannot be easily specialised from an existing element.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="x-xml-title"
+        phase-name="pretrans"><source>Use Case</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Use Case</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="11"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>A Help author is creating a Help system for a software application,
+		  which will provide field-level user assistance. The developers are implementing
+		  a Help API, which takes parameters of 
+		  <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;parmname&gt;</bpt>help file name<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/parmname&gt;</ept>, 
+		  <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;parmname&gt;</bpt>opening mode<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/parmname&gt;</ept>, (optional) 
+		  <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;parmname&gt;</bpt>topic number<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/parmname&gt;</ept> and (optional) 
+		  <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;parmname&gt;</bpt>window descriptor<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/parmname&gt;</ept>. The window descriptor is used
+		  to define the dimensions and other characateristics of the window into which a
+		  Help topic will display. The Help author wants to control the window
+		  descriptor, rather than the developer, as the window characteristics are
+		  dependent upon the nature of the topic content. The Help author therefore must
+		  create and store keyed window definitions at the publication (ditamap) level,
+		  and pass the window descriptor (keys) to the developer for integration with the
+		  application code.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">A Help author is creating a Help system for a software application, which will provide field-level user assistance.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">The developers are implementing a Help API, which takes parameters of <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;parmname&gt;</bpt>help file name<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/parmname&gt;</ept>, <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;parmname&gt;</bpt>opening mode<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/parmname&gt;</ept>, (optional) <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;parmname&gt;</bpt>topic number<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/parmname&gt;</ept> and (optional) <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;parmname&gt;</bpt>window descriptor<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/parmname&gt;</ept>.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">The window descriptor is used to define the dimensions and other characateristics of the window into which a Help topic will display.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">The Help author wants to control the window descriptor, rather than the developer, as the window characteristics are dependent upon the nature of the topic content.</mrk><mrk
+            mtype="protected"
+            mid="8"> </mrk><mrk
+            mtype="seg"
+            mid="9">The Help author therefore must create and store keyed window definitions at the publication (ditamap) level, and pass the window descriptor (keys) to the developer for integration with the application code.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="8"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="9"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="12"
+        restype="x-xml-title"
+        phase-name="pretrans"><source>Technical Requirements</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Technical Requirements</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="13"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>If implemented as a specialisation, new DTD/Schema files and
+		  alterations to the topic shells would be required. Toolkit implementations need
+		  to modify the map2hhp and similar collection (book) level transforms. A related
+		  new 
+		  <bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-context<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element with a 
+		  <bpt
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+            id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> attribute would be required. The 
+		  <bpt
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>features<ept
+            id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> attribute is modelled on the JavaScript 
+		  <bpt
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;cmdname&gt;</bpt>window.Open<ept
+            id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/cmdname&gt;</ept> method parameters.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">If implemented as a specialisation, new DTD/Schema files and alterations to the topic shells would be required.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Toolkit implementations need to modify the map2hhp and similar collection (book) level transforms.</mrk><mrk
+            mtype="protected"
+            mid="4"> </mrk><mrk
+            mtype="seg"
+            mid="5">A related new <bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-context<ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> element with a <bpt
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>ua-window<ept
+              id="2" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> attribute would be required.</mrk><mrk
+            mtype="protected"
+            mid="6"> </mrk><mrk
+            mtype="seg"
+            mid="7">The <bpt
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;synph&gt;</bpt>features<ept
+              id="3" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/synph&gt;</ept> attribute is modelled on the JavaScript <bpt
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;cmdname&gt;</bpt>window.Open<ept
+              id="4" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/cmdname&gt;</ept> method parameters.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="4"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="5"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="6"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="7"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="14"
+        restype="x-xml-title"
+        phase-name="pretrans"><source>Costs</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Costs</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="15"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Publishing tool changes could be implemented as XSL-T additions, at a
+		  relatively low (and one-off) cost. Authoring tool changes would only be
+		  required to provide an interface for the defining window descriptors and
+		  characteristics, at a relatively low cost.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Publishing tool changes could be implemented as XSL-T additions, at a relatively low (and one-off) cost.</mrk><mrk
+            mtype="protected"
+            mid="2"> </mrk><mrk
+            mtype="seg"
+            mid="3">Authoring tool changes would only be required to provide an interface for the defining window descriptors and characteristics, at a relatively low cost.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="protected"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="16"
+        restype="x-xml-title"
+        phase-name="pretrans"><source>Benefits</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Benefits</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="17"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Post-processing of Help outputs generated from DITA source would no
+		  longer be required, and window metadata could be maintained within the DITA
+		  source rather than outside it.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Post-processing of Help outputs generated from DITA source would no longer be required, and window metadata could be maintained within the DITA source rather than outside it.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="18"
+        restype="x-xml-title"
+        phase-name="pretrans"><source>Time Required</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Time Required</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="19"
+        restype="x-xml-p"
+        phase-name="pretrans"><source>Unknown.</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Unknown.</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit></body>
+  </file>
+</xliff>
